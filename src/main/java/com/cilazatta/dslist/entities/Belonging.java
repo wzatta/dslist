@@ -26,7 +26,7 @@ public class Belonging {
 	private Long id; */
 	
 	@EmbeddedId
-	private BelongingPK idPK;
+	private BelongingPK id;
 			
 	private Integer position;
 	
